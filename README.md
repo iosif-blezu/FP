@@ -1,2 +1,2 @@
 # FP
- Almost all of my work at Fundamentals of Programming, year 1.
+ "Almost all of my work during the Fundamentals of Programming course, first year."
